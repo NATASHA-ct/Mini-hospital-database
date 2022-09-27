@@ -2,6 +2,9 @@
 
 This is a hospital database with many-to-many relationships on tables showing patients information. It was created based on a schema diagram.
 
+## Schema diagram for the database
+<img width="488" alt="image" src="https://user-images.githubusercontent.com/106079814/192615933-ffb268f6-2397-47ca-a79d-47e2deb658cb.png">
+
 
 ## Getting Started
 
