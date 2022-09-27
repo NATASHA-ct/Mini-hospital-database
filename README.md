@@ -16,9 +16,9 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 👤 NATASHA TATENDA CHIROMBE
 
-GitHub: [@NATASHA-ct]((https://github.com/NATASHA-ct)
-Twitter: [@NatashaChirombe]
-LinkedIn: Natasha Chirombe
+- GitHub: [@NATASHA-ct]((https://github.com/NATASHA-ct)
+- Twitter: [@NatashaChirombe]
+- LinkedIn: Natasha Chirombe
 
 
 ## 🤝 Contributing
